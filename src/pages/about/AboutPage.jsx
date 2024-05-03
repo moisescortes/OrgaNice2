@@ -17,7 +17,7 @@ export default function AboutPage() {
         className="bg-center bg-cover bg-no-repeat relative"
         style={{
           backgroundImage: `url(${home})`,
-          minHeight: "100vh",
+          minHeight: "150vh",
         }}
       >
         <div className="absolute top-1/2 left-0 transform -translate-y-1/2 ml-4 w-1/3 p-6 flex flex-col rounded-xl">
